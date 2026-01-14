@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Sweet Magic",
+  "base_artist": "F/ACE",
+  "createdAt": "2026-01-14T02:11:49.351659Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sweet Magic Pain",
+      "artist": "Spiritual Beggars",
+      "has_synced": true,
+      "path": "select/01_Sweet_Magic_Pain_Spiritual_Beggars.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sweet Sweet Magic",
+      "artist": "SHE'S",
+      "has_synced": true,
+      "path": "select/02_Sweet_Sweet_Magic_SHE'S.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sweet Magic (2015 Summer Ver.)",
+      "artist": "LON",
+      "has_synced": true,
+      "path": "select/03_Sweet_Magic_(2015_Summer_Ver.)_LON.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "スイートマジック(2015 Summer ver.) - Sweet Magic (2015 Summer Ver.)",
+      "artist": "Lon",
+      "has_synced": true,
+      "path": "select/04_スイートマジック(2015_Summer_ver.)_-_Sweet_Magic_(2015_Summer_Ver.)_Lon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sweet Magic (12\" Club Mix) [feat. Dreams Come True]",
+      "artist": "Tyrants in Therapy",
+      "has_synced": true,
+      "path": "select/05_Sweet_Magic_(12__Club_Mix)_[feat._Dreams_Come_True]_Tyrants_in_Therapy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sweet Magic [Instrumental]",
+      "artist": "有村麻央(CV.七瀬つむぎ)",
+      "has_synced": true,
+      "path": "select/06_Sweet_Magic_[Instrumental]_有村麻央(CV.七瀬つむぎ).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sweet Magic",
+      "artist": "初星学園",
+      "has_synced": true,
+      "path": "select/07_Sweet_Magic_初星学園.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sweet Magic",
+      "artist": "有村麻央(CV.七瀬つむぎ)",
+      "has_synced": true,
+      "path": "select/08_Sweet_Magic_有村麻央(CV.七瀬つむぎ).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sweet Magic (instrumental)",
+      "artist": "初星学園",
+      "has_synced": true,
+      "path": "select/09_Sweet_Magic_(instrumental)_初星学園.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sweet Magic (Joey Negro Dub)",
+      "artist": "Joey Negro",
+      "has_synced": true,
+      "path": "select/10_Sweet_Magic_(Joey_Negro_Dub)_Joey_Negro.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sweet Magic (Talkapella)",
+      "artist": "Joey Negro",
+      "has_synced": true,
+      "path": "select/11_Sweet_Magic_(Talkapella)_Joey_Negro.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sweet Magic",
+      "artist": "F/ACE",
+      "has_synced": false,
+      "path": "select/pl_01_Sweet_Magic_F_ACE.txt"
+    }
+  ]
+}
